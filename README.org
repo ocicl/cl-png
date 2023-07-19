@@ -1,0 +1,9 @@
+* cl-png
+
+Common Lisp library for reading and writing PNG files
+
+|---------+------------------------------------------------|
+| source  | git:https://github.com/sharplispers/cl-png.git |
+| commit  | 6da3732                                        |
+| systems | cl-png                                         |
+|---------+------------------------------------------------|
